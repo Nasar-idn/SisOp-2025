@@ -227,16 +227,22 @@ Jadi,untuk bit-bit biner adalah 0001 1001 1000 0111 = 1100110000111₂
 
 ---
 
-### 1️⃣4️⃣ **Konversi Biner ke BCO**
-**a.** A.  11111101001₂
-001 111 110 100 
-Konversi setiap kelompok ke oktal: 1 7 6 4
-Hasilnya: 1764₈ (BCO)
+14.Rubahlah bilangan biner di bawah ini ke dalam BCO 
+a)11111101001₂
 
+001 = 3
+
+111 = 7
+
+110 = 5
+
+100 = 1
+
+Hasilnya: a)3751₈ (BCO)
 
 ---
 
-### 1️⃣5️⃣ **Konversi Biner ke BCH**
+15. Rubahlah bilangan biner di bawah ini ke dalam BCH
 **a.** 1101111100101110₂
 1101 1111 0010 1110
 Konversi setiap kelompok ke heksadesimal: D F 2 E
