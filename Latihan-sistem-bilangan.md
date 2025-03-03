@@ -243,49 +243,79 @@ Hasilnya: a)3751₈ (BCO)
 ---
 
 15. Rubahlah bilangan biner di bawah ini ke dalam BCH
-**a.** 1101111100101110₂
+a) 1101111100101110₂
+
 1101 1111 0010 1110
-Konversi setiap kelompok ke heksadesimal: D F 2 E
-Hasilnya: DF2E₁₆ (BCH)
 
+Konversi : D F 2 E
 
----
-
-### 1️⃣6️⃣ **Konversi BCH ke Heksadesimal**
-**a.** F0DE (BCH)
-Karena F, D, dan E bukan digit desimal yang valid, ini bukan bilangan BCH yang benar. Bilangan BCH seharusnya hanya mengandung angka 0-9.
-
+Hasilnya: a)DF2E₁₆ (BCH)
 
 ---
 
-### 1️⃣7️⃣ **Menentukan Bilangan Positif atau Negatif**
-**a.** 01111111 → **Positif (127₁₀)**  
+16. Rubahlah Bentuk BCH di bawah ini ke dalam bilangan heksadesimal
+a) F0DE (BCH)
 
+1111 0000 1101 1110
 
----
+Pisahkan:
 
-### 1️⃣8️⃣ **Konversi Bilangan Negatif ke Desimal**
-**a.** 1.	Balik semua bit (0 menjadi 1, 1 menjadi 0).
-2.	Tambahkan 1.
-3.	Konversi ke desimal.
-4.	Tambahkan tanda negatif.
-a. 10001000: -120₁₀ 
+1111 → F
 
+0000 → 0
 
----
+1101 → D
 
-### 1️⃣9️⃣ **ASCII Code ke Karakter**
-**a.** 41₁₆ → **A**   
+1110 → E
+
+Hasil: a)F0DE
 
 ---
 
-### 2️⃣0️⃣ **Karakter ke ASCII Code**
-**a.** a → **61₁₆**  
+17. Nyatakan positip atau negatip bilangan biner di bawah ini
+a) 01111111
+
+→ a)Positif 127₁₀  
 
 ---
 
-### 2️⃣1️⃣ **Kode ASCII pada Monitor**
-"PRINT X" dikonversi ke ASCII menjadi:  
-**P (1010000) R (1010010) I (1001001) N (1001110) T (1010100) Space (0100000) X (1011000)**
+18. Nyatakan bilangan biner negatip di bawah ini ke dalam bilangan desima
+a) 10001000
+
+•	Balik semua bit (0 menjadi 1, 1 menjadi 0).
+
+•	Tambahkan 1.
+
+•	Konversi ke desimal.
+   
+•	Tambahkan tanda negatif.
+
+Hasilnya : a)-120₁₀
+
+---
+
+19. Nyatakan ASCII Code di bawah ini dalam bentuk karakter
+a) 41₁₆
+
+→ a)A
+
+---
+
+20. Nyatakan Karakter di bawah ini dalam ASCII Code
+a) a
+
+→ a)61₁₆  
+
+---
+
+21. Dengan Keyboard standard ASCII, pada layar monitor nampak tulisan sebagai berikut:
+
+ **PRINT X**
+ 
+ Nyatakan Keluaran pada Keyboard tersebut. 
+ 
+konversinya ke ASCII menjadi:  
+
+P (1010000) R (1010010) I (1001001) N (1001110) T (1010100) Space (0100000) X (1011000)
    
    
